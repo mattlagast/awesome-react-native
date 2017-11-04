@@ -4,6 +4,7 @@
 
 - [Logging](#Logging)
 - [Navigation](#Navigation)
+- [Redux](#Redux)
 - [Style Guides](#style-guides)
 
 ## Logging
