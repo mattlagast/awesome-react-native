@@ -21,6 +21,7 @@
 - Persistence for redux store : https://github.com/rt2zz/redux-persist
 - Asynchronous dispatch for redux : https://github.com/gaearon/redux-thunk
 - Useful react native app with Redux example : https://github.com/FormidableLabs/formidable-react-native-app-boilerplate
+- Article - Redux and React navigation : https://codeburst.io/react-navigation-with-complete-redux-state-management-tab-bar-and-multiple-navigators-ed30a69d9a4d
 
 ## Style Guides
 - eslint : https://github.com/Intellicode/eslint-plugin-react-native
