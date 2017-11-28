@@ -2,10 +2,14 @@
 
 ## Content
 
+- [Getting started](#getting-started)
 - [Logging](#Logging)
 - [Navigation](#Navigation)
 - [Redux](#Redux)
 - [Style Guides](#style-guides)
+
+## Getting started
+- How to start React (or react native) - https://www.fullstackreact.com/30-days-of-react/
 
 ## Logging
 - A macOS, Windows, and Linux app for inspecting your React JS and React Native apps : https://github.com/infinitered/reactotron
