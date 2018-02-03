@@ -3,6 +3,7 @@
 ## Content
 
 - [Getting started](#getting-started)
+- [UI Component](#ui-component)
 - [Logging](#Logging)
 - [Navigation](#Navigation)
 - [Redux](#Redux)
