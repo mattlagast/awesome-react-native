@@ -11,6 +11,11 @@
 ## Getting started
 - How to start React (or react native) - https://www.fullstackreact.com/30-days-of-react/
 
+## UI Component
+- The comprehensive camera module for React Native. Including photographs, videos, and barcode scanning! : https://github.com/react-native-community/react-native-camera
+- A React Native module that allows you to use native UI to select a photo/video from the device library or directly from the camera : https://github.com/react-community/react-native-image-picker
+- Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile! : https://github.com/airbnb/lottie-react-native
+
 ## Logging
 - A macOS, Windows, and Linux app for inspecting your React JS and React Native apps : https://github.com/infinitered/reactotron
 - Logger for redux usage : https://github.com/evgenyrodionov/redux-logger
